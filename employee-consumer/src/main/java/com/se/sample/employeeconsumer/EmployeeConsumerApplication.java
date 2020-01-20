@@ -8,6 +8,8 @@ import org.springframework.web.client.RestClientException;
 
 import java.io.IOException;
 
+
+//@EnableEurekaClient
 @SpringBootApplication
 public class EmployeeConsumerApplication {
 
